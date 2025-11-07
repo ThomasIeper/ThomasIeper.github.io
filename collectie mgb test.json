@@ -1,0 +1,75 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0032-collection/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Museum Godshuis Belle Collection"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000055/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Zegel van de stad Ieper"
+        ]
+      }
+    },
+    {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000034/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cilinderstralenmonstrans"
+        ]
+      }
+    },
+    {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000018/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Kanonisatie van de Heilige Isidoor van Madrid"
+        ]
+      }
+    },
+    {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000017/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aanbidding der herders"
+        ]
+      }
+    },
+    {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000016/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Daniel in de leeuwenkuil"
+        ]
+      }
+    },
+        {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000014/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Onze-Lieve-Vrouw met de Rozentuin"
+        ]
+      }
+    },
+        {
+      "id": "https://museaieper.resourcespace.com/iiif/MGB000011/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Memento: Maria met Jezus"
+        ]
+      }
+    },
+  ]
+}
